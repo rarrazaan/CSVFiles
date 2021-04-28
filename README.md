@@ -1,2 +1,2 @@
 # TuProAI2
-cuma file xlsx nya
+cuma file csv nya
