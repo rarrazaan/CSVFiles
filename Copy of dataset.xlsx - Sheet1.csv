@@ -1,0 +1,15 @@
+hp,baterai,kamera,harga,layak
+1,kuat,tinggi,sangat murah,y
+2,kuat,tinggi,sangat mahal,y
+3,kuat,sedang,mahal,y
+4,kuat,rendah,mahal,n
+5,cukup,tinggi,sangat murah,y
+6,cukup,sedang,mahal,y
+7,cukup,sedang,sangat mahal,y
+8,cukup,tinggi,murah,y
+9,cukup,rendah,mahal,n
+10,lemah,tinggi,sangat murah,y
+11,lemah,tinggi,sangat mahal,n
+12,lemah,sedang,mahal,n
+13,lemah,sedang,murah,n
+14,lemah,rendah,sangat mahal,n
